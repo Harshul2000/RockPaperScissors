@@ -6,6 +6,21 @@ The game works like this:
 * The computer will randomly select one of the options.
 * The first to reach the minimum number of necessary wins (either 2 or 3 depending on the number of turns you chose) wins the game overall.
 
+ <img src="data/Screenshot (9).png" height="240" >
+
+
+## Libraries
+* Random
+
+
+
+## Requirements
+* VS Code
+* Python
+
+## Code 
+
+* [Code](code/main.py)
 
 
 
